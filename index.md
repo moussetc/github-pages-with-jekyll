@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Accueil"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Ceci est le résultat du [tutoriel GitHub pour la création d'un site via GH Pages&Jekyll](https://lab.github.com/githubtraining/github-pages).
